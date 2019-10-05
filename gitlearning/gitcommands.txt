@@ -1,0 +1,6 @@
+ git init
+ git remote add origin https://github.com/rastogitanu145/learning.git
+ git status
+ git add .
+ git commit -m "hi"
+ git push origin master
